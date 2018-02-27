@@ -1,0 +1,11 @@
+/vendor/
+deploy_exclude.txt
+deploy_test.sh
+.env
+/.git/
+.gitignore
+.gitattributes
+readme.md
+.env.example
+shippable.yml
+phpunit.xml
